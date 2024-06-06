@@ -9,11 +9,14 @@ Hi there, my name is Tariq and this is my iteration of working with a pandas AI 
 <br/>
 
 - **Interests:** I am eager to work with data scientists, developers and other professional on new and exciting projects.  Feel free to reach out t o me or visit my personal website for futher details.  💬
-<br/>
+
 
 ## Citation
 
 Data provided by Kaagle.
+
+<br/>
+
 [Kaggle - Patient Survival Prediction](https://www.kaggle.com/datasets/mitishaagarwal/patient)
 
 ![image](https://github.com/subzero11/Pandas_AI/assets/16353348/c14dfee9-30d4-494a-8a26-74425ef19e70)
