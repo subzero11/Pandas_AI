@@ -9,7 +9,7 @@ Hi there, my name is Tariq and this is my iteration of working with a pandas AI 
 <br/>
 
 - **Interests:** I am eager to work with data scientists, developers and other professional on new and exciting projects.  Feel free to reach out t o me or visit my personal website for futher details.  💬
-
+<br/>
 ## Citation
 
 Data provided by Kaagle.
