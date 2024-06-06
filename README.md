@@ -17,6 +17,8 @@ Data provided by Kaagle.
 
 [Kaggle - Patient Survival Prediction](https://www.kaggle.com/datasets/mitishaagarwal/patient)
 
+<br/>
+
 ![image](https://github.com/subzero11/Pandas_AI/assets/16353348/c14dfee9-30d4-494a-8a26-74425ef19e70)
 
 ![image](https://github.com/subzero11/Pandas_AI/assets/16353348/ab5b0bbd-9fd0-4359-9811-2494ff202afd)
