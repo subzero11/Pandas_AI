@@ -1,4 +1,4 @@
-# Welcome to Tariq's PandasAI Chainlit implemenatation! 🚀🤖
+# Tariq's PandasAI implemenatation! 🚀🤖
 
 Hi there, my name is Tariq and this is my iteration of working with a pandas AI using Chainlit and Llama3.
 
