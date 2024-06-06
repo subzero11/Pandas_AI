@@ -15,8 +15,6 @@ Hi there, my name is Tariq and this is my iteration of working with a pandas AI 
 
 Data provided by Kaagle.
 
-<br/>
-
 [Kaggle - Patient Survival Prediction](https://www.kaggle.com/datasets/mitishaagarwal/patient)
 
 ![image](https://github.com/subzero11/Pandas_AI/assets/16353348/c14dfee9-30d4-494a-8a26-74425ef19e70)
