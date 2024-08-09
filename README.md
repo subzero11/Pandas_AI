@@ -10,7 +10,7 @@ Hi, my name is Tariq and this is my iteration of working with a pandas AI using 
 
 <br/>
 
-- **Interests:** I am eager to work with data scientists, developers and other professional on new and exciting projects.  Feel free to reach out t o me or visit my personal website for futher details.  💬
+- **Interests:** Working with DevOps, data scientists, developers and other professional on new and exciting projects.  Feel free to reach out to me or visit my personal website for futher details.  💬
 
 
 ## Citation
