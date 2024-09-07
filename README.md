@@ -15,7 +15,7 @@ Hi, my name is Tariq and this is my iteration of working with a pandas AI using 
 
 ## Citation
 
-Data provided by Kaagle...here are some changes
+Data provided by Kaagle.....deleted the content
 
 [Kaggle - Patient Survival Prediction](https://www.kaggle.com/datasets/mitishaagarwal/patient)
 
